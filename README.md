@@ -12,9 +12,9 @@
 </p>
 
 <p align="center">
-  <a href="https://benjagc.github.io/Portafolio/"><img src="assets/portfolio.svg" height="36" alt="Ver mi portfolio" /></a>
+  <a href="https://benjagc.github.io/Portafolio/"><img src="assets/portfolio-button.svg" height="36" alt="Ver mi portfolio" /></a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/benjam%C3%ADn-gonz%C3%A1lez-b456b5259/"><img src="assets/linkedin.svg" height="36" alt="Conectar en LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/benjam%C3%ADn-gonz%C3%A1lez-b456b5259/"><img src="assets/linkedin-button.svg" height="36" alt="Conectar en LinkedIn" /></a>
   &nbsp;
   <a href="mailto:gonzalezbenjamin530@gmail.com"><img src="assets/contacto.svg" height="36" alt="Escríbeme por correo" /></a>
 </p>
