@@ -14,7 +14,7 @@
 <p align="center">
   <a href="https://benjagc.github.io/Portafolio/"><img src="assets/portfolio.svg" height="36" alt="Ver mi portfolio" /></a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/benjamin-gonzalez-b456b5259/"><img src="assets/linkedin.svg" height="36" alt="Conectar en LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/benjam%C3%ADn-gonz%C3%A1lez-b456b5259/"><img src="assets/linkedin.svg" height="36" alt="Conectar en LinkedIn" /></a>
   &nbsp;
   <a href="mailto:gonzalezbenjamin530@gmail.com"><img src="assets/contacto.svg" height="36" alt="Escríbeme por correo" /></a>
 </p>
@@ -53,9 +53,9 @@ const benjamin = {
 
 | Proyecto | Qué encontrarás | Enlaces |
 | :--- | :--- | :--- |
-| **Veredicto IA** | Mi plataforma para descubrir y comparar herramientas de inteligencia artificial. | [Visitar ↗](https://www.veredicto-ia.com/) |
-| **Iguana Journal** | Un sitio educativo con dirección editorial, fotografía e interacción. | [Visitar ↗](https://benjagc.github.io/IGUANA-JOURNALCL/) · [Código](https://github.com/BenjaGC/IGUANA-JOURNALCL) |
-| **TecnoCommerce** | Demo de tienda de hardware: catálogo, productos y carrito. | [Visitar ↗](https://benjagc.github.io/tecnocommercee/index.html) · [Código](https://github.com/BenjaGC/tecnocommercee) |
+| **Veredicto IA** | Mi plataforma para descubrir y comparar herramientas de inteligencia artificial. | [Visitar](https://www.veredicto-ia.com/) |
+| **Iguana Journal** | Un sitio educativo con dirección editorial, fotografía e interacción. | [Visitar](https://benjagc.github.io/IGUANA-JOURNALCL/) · [Código](https://github.com/BenjaGC/IGUANA-JOURNALCL) |
+| **TecnoCommerce** | Demo de tienda de hardware: catálogo, productos y carrito. | [Visitar](https://benjagc.github.io/tecnocommercee/index.html) · [Código](https://github.com/BenjaGC/tecnocommercee) |
 
 En mi [portfolio](https://benjagc.github.io/Portafolio/) cuento las decisiones detrás de cada proyecto y los servicios que ofrezco.
 
@@ -73,7 +73,7 @@ En mi [portfolio](https://benjagc.github.io/Portafolio/) cuento las decisiones d
   <img src="assets/github-snake.svg" width="100%" alt="Animación de una serpiente recorriendo mi calendario de contribuciones de GitHub." />
 </picture>
 
-<p align="center"><a href="https://raw.githubusercontent.com/BenjaGC/BenjaGC/main/assets/github-snake-dark.svg">Ver el recorrido animado ↗</a></p>
+<p align="center"><a href="https://raw.githubusercontent.com/BenjaGC/BenjaGC/main/assets/github-snake-dark.svg">Ver el recorrido animado</a></p>
 
 <sub>Datos públicos actualizados diariamente. Los lenguajes se calculan por tamaño de código en repositorios propios, sin forks ni este perfil.</sub>
 
@@ -81,5 +81,5 @@ En mi [portfolio](https://benjagc.github.io/Portafolio/) cuento las decisiones d
 
 <p align="center">
   <b>¿Tienes una idea para tu web?</b><br />
-  <a href="mailto:gonzalezbenjamin530@gmail.com">Conversemos</a> · <a href="https://benjagc.github.io/Portafolio/">De idea a sitio ↗</a>
+  <a href="mailto:gonzalezbenjamin530@gmail.com">Conversemos</a> · <a href="https://benjagc.github.io/Portafolio/">De idea a sitio</a>
 </p>
