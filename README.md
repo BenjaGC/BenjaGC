@@ -73,6 +73,8 @@ En mi [portfolio](https://benjagc.github.io/Portafolio/) cuento las decisiones d
   <img src="assets/github-snake.svg" width="100%" alt="Animación de una serpiente recorriendo mi calendario de contribuciones de GitHub." />
 </picture>
 
+<p align="center"><a href="https://raw.githubusercontent.com/BenjaGC/BenjaGC/main/assets/github-snake-dark.svg">Ver el recorrido animado ↗</a></p>
+
 <sub>Datos públicos actualizados diariamente. Los lenguajes se calculan por tamaño de código en repositorios propios, sin forks ni este perfil.</sub>
 
 ---
