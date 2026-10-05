@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Benjamín González. De idea a sitio.</title>
+  <desc id="desc">Portada azul oscuro con tipografía clara y un trazado animado que conecta una idea con una interfaz web.</desc>
+  <defs>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#34455e"/></pattern>
+    <linearGradient id="flow" x1="0" x2="1"><stop stop-color="#ff826c"/><stop offset=".52" stop-color="#c3b2ff"/><stop offset="1" stop-color="#6ee6ce"/></linearGradient>
+  </defs>
+  <style>
+    .trace{stroke-dasharray:1000;stroke-dashoffset:0;animation:trace 2.8s cubic-bezier(.22,1,.36,1) both}
+    .window{animation:rise 1s cubic-bezier(.22,1,.36,1) both;transform-origin:905px 185px}
+    @keyframes trace{from{stroke-dashoffset:1000}to{stroke-dashoffset:0}}
+    @keyframes rise{from{opacity:0;transform:translateY(14px) rotate(-3deg)}to{opacity:1;transform:translateY(0) rotate(0)}}
+    @media(prefers-reduced-motion:reduce){.trace,.window{animation:none}}
+    text{font-family:Arial,Helvetica,sans-serif}
+  </style>
+  <rect width="1200" height="360" rx="16" fill="#101c2b"/>
+  <rect x="646" y="0" width="554" height="360" fill="url(#grid)"/>
+  <path d="M44 70V38H76" stroke="#ff826c" stroke-width="3" fill="none"/>
+  <text x="96" y="56" font-size="17" fill="#a7bdd3" letter-spacing="2.5">BENJAMÍN GONZÁLEZ</text>
+  <text x="56" y="159" fill="#f2f6fb" font-size="78" font-weight="700" letter-spacing="-4">De idea</text>
+  <text x="56" y="237" fill="#f2f6fb" font-size="78" font-weight="700" letter-spacing="-4">a sitio<tspan fill="#ff826c">.</tspan></text>
+  <text x="60" y="295" font-size="20" fill="#a7bdd3">Diseño y desarrollo web</text>
+  <g fill="none" stroke="#344b64" stroke-width="1.5">
+    <path d="M610 116H682V72H756"/>
+    <path d="M610 224H662V281H800"/>
+    <path d="M1070 99H1150V55"/>
+    <path d="M1010 287H1136V220"/>
+  </g>
+  <path class="trace" d="M615 177H690Q716 177 716 151V113Q716 88 741 88H1106V276H873" fill="none" stroke="url(#flow)" stroke-width="3"/>
+  <circle cx="615" cy="177" r="10" fill="#ff826c"/>
+  <circle cx="615" cy="177" r="21" fill="none" stroke="#ff826c" stroke-opacity=".35"/>
+  <g class="window">
+    <rect x="757" y="114" width="308" height="181" rx="10" fill="#0c1522" stroke="#6789a5" stroke-width="1.5"/>
+    <path d="M757 145H1065" stroke="#344b64"/>
+    <g fill="#6ee6ce"><circle cx="775" cy="130" r="3"/><circle cx="787" cy="130" r="3" opacity=".6"/><circle cx="799" cy="130" r="3" opacity=".3"/></g>
+    <rect x="780" y="171" width="119" height="10" rx="3" fill="#e9f1fb"/>
+    <rect x="780" y="191" width="96" height="7" rx="3" fill="#a7bdd3"/>
+    <rect x="780" y="215" width="114" height="4" rx="2" fill="#344b64"/>
+    <rect x="780" y="226" width="100" height="4" rx="2" fill="#344b64"/>
+    <rect x="780" y="249" width="70" height="22" rx="4" fill="#ff826c"/>
+    <rect x="920" y="171" width="120" height="100" rx="7" fill="#192d42"/>
+    <path d="M942 225L961 207L980 225L961 244M1015 191L995 252" stroke="#6ee6ce" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="1118" y="322" fill="#a7bdd3" font-size="13" text-anchor="end" letter-spacing="1.8">DISEÑO + CÓDIGO</text>
+</svg>
