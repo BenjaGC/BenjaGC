@@ -8,7 +8,9 @@
 
 <p align="center">
   Estudiante de Ingeniería en Informática en la <b>Universidad Andrés Bello</b>.<br />
-  Diseño y desarrollo sitios web para negocios locales y proyectos propios.
+ desarrollador Fullstack JavaScript.
+Construyo productos web con JavaScript, Astro, Node.js e IA aplicada.
+Me interesa especialmente integrar agentes, automatizaciones y herramientas de IA dentro del desarrollo de software.
 </p>
 
 <p align="center">
