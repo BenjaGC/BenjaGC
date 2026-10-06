@@ -27,7 +27,7 @@ Me interesa unir diseño y código: que una interfaz se vea bien, se entienda y 
 
 ```js
 const benjamin = {
-  enfoque: ["Diseño web", "Desarrollo frontend", "Experiencias claras"],
+enfoque: ["Fullstack JavaScript", "AI-assisted development", "Productos web"],
   proyectoPropio: "Veredicto IA",
   construyendo: "Sitios con identidad y atención al detalle",
   conversemos: "¿Qué tienes en mente?"
